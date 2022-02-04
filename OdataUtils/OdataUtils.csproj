@@ -7,6 +7,8 @@
     <Authors>Ken Leonhard</Authors>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>Initial public release.</PackageReleaseNotes>
+    <UserSecretsId>f6e3a378-6798-41b3-a238-d57c01e15ef0</UserSecretsId>
+    <RepositoryUrl>https://github.com/kenleonhard/odata-csharp-utils.git</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
